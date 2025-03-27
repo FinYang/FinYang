@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m a PhD student in statistics at Monash University, Australia.
-- 🔭 I’m currently working on optimisation and time series forecasting.
+- 🌱 I’m a postdoc at Maastricht University, Netherlands.
+- 🔭 I’m currently working on optimisation, outlier detection, penalised regression estimation, time series and forecasting.
 - 📫 Some more info about me: [yangzhuoranyang.com](https://yangzhuoranyang.com)
 - 😄 Pronouns: he/him
 
